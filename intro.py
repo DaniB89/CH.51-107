@@ -46,14 +46,25 @@ print(colors)
 del colors[1]
 print(colors)
 
-print(colors[1])
+# print(colors[1])
 
 # for loops
-for color in colors:
-    print(x)
+# for color in colors:
+    # print(x)
 
 
 # for(i=0;i<colors.length;i++){
 # let temp = i[0];
 # console.log(temp)
 # }
+
+# dictionary
+me = {
+    "first_name":"Dani",
+    "last_name": "Black",
+    "age":33
+}
+print(me)
+print(me["first_name"])
+me["first_name"] = "Dani"
+print(me["first_name"])
