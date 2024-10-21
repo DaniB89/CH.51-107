@@ -3,7 +3,7 @@ print("Hello World")
 
 # Variables
 name = "dani"
-age= 138
+age= 33
 found = False
 name = 12
 name = True
